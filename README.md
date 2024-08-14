@@ -1,6 +1,6 @@
 ## DIO - Trilha Java Basico
 
-Exercicio sobre o conteudo Java apresentado no BootCamp da DIO Claro - Java com Spring Boot
+Exercicio sobre o conteudo de Java apresentado no Bootcamp da DIO Claro - Java com Spring Boot
 
 [Digital Inovation One](www.dio.me)
 
